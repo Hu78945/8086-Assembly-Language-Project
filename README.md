@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-This project was created as a learning exercise and is based on the concept of the Tic-Tac-Toe game. It was implemented by [Your Name] as part of [Course/Project Name] at [Your Institution].
+This project was created as a learning exercise and is based on the concept of the Tic-Tac-Toe game. It was implemented by Syed Behzad Hassan Naqi as part of Tic-Tac-Toe at University of Management & Technology.
 
 ```
 Feel free to modify and customize this README file as needed, adding more details or sections specific to your project.
